@@ -1,0 +1,2 @@
+# NewsportalSkillfactory
+Database, DjangoORM task
